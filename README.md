@@ -19,7 +19,7 @@ Java • Python • JavaScript • SQL • Git • REST APIs • AI Tools
 
 ## 🎉 Fun Facts
 - Huge car lover & Hot Wheels collector 🚗  
-- Hot chocolate with melty marshmallows + whipped cream + sprinkles = happiness ☕  
+- Hot chocolate with melty marshmallows + whipped cream + sprinkles = my Roman Empire ☕  
 - I believe in Batman and clean code 🦇
 - I love turning impossible ideas into real products  
 
