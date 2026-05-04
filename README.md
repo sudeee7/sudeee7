@@ -1,4 +1,4 @@
-# Heyyyyoooo It's Sude 👋
+# Heyyyyoooo It's Sude 🦖
 
 💻 Computer Science Student  
 🤖 Building AI, Automation & SaaS projects  
@@ -15,7 +15,6 @@ Java • Python • JavaScript • SQL • Git • REST APIs • AI Tools
 - AI SaaS products  
 - Automation systems  
 - Growing my developer portfolio  
-
 ---
 
 ## 🎉 Fun Facts
