@@ -1,6 +1,6 @@
 # Heyyyyoooo It's Sude 🦖
 
-💻 Computer Science Student  
+💻 Software Engineering Student  
 🤖 Building AI, Automation & SaaS projects  
 🚀 Future tech founder in the making
 
